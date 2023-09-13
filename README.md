@@ -2,7 +2,6 @@
 
 >Aplicativo para informar o clima da sua localização.
 
-<img src="/assets/clima.png">
 
 
 [![Author](https://img.shields.io/badge/author-luismachadodev-000000?style=flat-square)](https://github.com/luismachadodev)
